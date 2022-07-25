@@ -1,0 +1,21 @@
+[
+    {
+      "id": "1",
+      "name": "Idli Dosa",
+      "price": 30,
+      "quantity": 2
+    },
+    {
+      "id": "2",
+      "name": "Chole Bhature",
+      "price": 45,
+      "quantity": 1
+    },
+    {
+      "id": "3",
+      "name": "Veg Burger",
+      "price": 55,
+      "quantity": 3
+    }
+  ]
+  
